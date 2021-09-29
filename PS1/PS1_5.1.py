@@ -32,10 +32,3 @@ def Find_expression(x):
             expre = expre + '=' + str(x)
             print(expre)
             answer.append(expre)
-    
-    
-    
-    
-
-                                    
-    
