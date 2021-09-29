@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 
 import numpy as np
 def Find_expression(x):
-    num = '123456789'
     sign = ['+', '-', ' ']
     sign_line = ''
     last_sign = ['+', '-', ' ']
