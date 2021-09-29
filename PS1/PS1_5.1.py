@@ -6,12 +6,12 @@ Created on Thu Sep 23 16:31:43 2021
 """
 
 def Find_expression(x):
-    num = '123456789'
     sign = ['+', '-', ' ']
     sign_line = ''
     last_sign = ['+', '-', ' ']
     all_sign = []
     answer = []
+    # find all conbinations of sign
     for i in range(7):
         new_sign = []
         for j in range(3):
